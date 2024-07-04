@@ -13,7 +13,7 @@
         }
     } printNumbers(10, 30)
 
-	//3/.	Create a function that sum the values in-between two numbers. eg calcFunc(1,3) returns 6. ie. 1+2+3.
+	//3/.	Create a function that sum the values in-between two numbers. eg calcFunc(1,3) returns 6. ie. 1+2+3. try
 
     function sumValues(num1, num2){
         let sum = 0;
