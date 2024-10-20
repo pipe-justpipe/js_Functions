@@ -5,7 +5,7 @@
     }
     isEven(30);
 
-	//2.	Create a function that prints to the console n1 to n2. where n1 is the first input/parameter and n2 is the second input/parameter
+	//2.	Create a function tthat prints to the console n1 to n2. where n1 is the first input/parameter and n2 is the second input/parameter
 
     function printNumbers(n1,n2){
         for (let num = n1; num <= n2; num++) {
