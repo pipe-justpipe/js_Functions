@@ -1,5 +1,5 @@
 //Assigment.
-	//1.	Create a function that checks if the input/parameter is an even number.
+	//1.	Create a function that checkss if the input/parameter is an even number.
     function isEven(number) {
         console.log(number % 2 === 0);
     }
